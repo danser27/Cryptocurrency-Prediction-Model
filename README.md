@@ -4,7 +4,7 @@ In this notebook an analysis on BTC crypto currency is done.
 
 Data:  
 - Collected in form of daily OHLC.
-- Span from 29 Sep 2019 to 28 June 2021. 
+- Span from 25 Sep 2019 to 10 Sep 2022. 
 - Provider is 'cryptowat' API.
 
 The input data are set in a way to be easily adjusted to let the user experiment and running the same analysis, with other crypto currencies too.
