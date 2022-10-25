@@ -1,6 +1,6 @@
 # Cryptocurrency-Prediction-Model
 
-In this notebook an analysis on BTC crypto currency is done.
+In this notebook we analyze and forecast BTC prize.
 
 Data:  
 - Collected in form of daily OHLC.
